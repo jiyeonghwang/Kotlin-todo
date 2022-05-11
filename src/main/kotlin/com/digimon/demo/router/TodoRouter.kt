@@ -1,7 +1,6 @@
-package com.example.kotlintodo.router
+package com.digimon.demo.router
 
-
-import com.example.kotlintodo.handler.TodoHandler
+import com.digimon.demo.handler.TodoHandler
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.web.reactive.function.server.RequestPredicates.path

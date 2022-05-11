@@ -1,4 +1,4 @@
-package com.example.kotlintodo
+package com.digimon.demo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
